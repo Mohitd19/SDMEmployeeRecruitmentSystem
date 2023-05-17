@@ -1,0 +1,50 @@
+Title: Employee Recruitment System
+
+
+Introduction:
+The purpose of this Web Application is to define the requirements for the development of an Employee Recruitment System, which will streamline and automate the recruitment process within an organization.
+
+
+Scope:
+The system will ensure features such as job posting, applicant tracking, resume management, interview scheduling, candidate evaluation, and reporting.and It is manages by stakeholders involved in the employee recruitment system, such as recruiters, HR personnel, hiring managers, candidates, executives, etc.
+
+
+
+
+Functional Requirements:
+Job posting:
+ * Through this web application employee can able to see job posted on website and management 
+
+Candidate application and resume submission:
+* Candidate can apply based on their field and submit their resume on the we application.
+* The system will have all the backup date of the candidate.
+
+Application shortlisting:
+* The management team will see the resume and based on company criteria the candidate will shortlisted.
+
+Interview scheduling:
+* Ater shortlisting the candidate the candidate will get personal email whuich he submitted on resume or web application during registration about the interview details.
+ 
+Skills of candidate:
+* candidate can submit their additional skill on the apllication
+
+verification:
+* Management team will verify the documents of the candidate and proceed
+
+Offer acceptance:
+* finally the candidate who matches all the criteria will get offer letter.
+
+Reporting :
+* The management team will then send the reporting date, and all the guidelines of the company.
+
+
+
+
+
+
+
+
+		
+
+
+

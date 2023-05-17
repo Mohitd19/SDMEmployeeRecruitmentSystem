@@ -1,0 +1,11 @@
+Buisiness Entities:
+job Posting: jobID, jobtitle, jobDescription, jobSkills , jobSalary.
+
+Candidate: CandidateID, candidateName, candidateContact , candidateExperience, Education, Resume.
+
+Application: ApplicationID, ApplicationDate, ApplicationStatus 
+
+Interview:  InterviewID, InterviewDate, Interviewernamme.
+
+Offer: OfferID, OfferDate, OfferSalary, offerexpirydate.
+
